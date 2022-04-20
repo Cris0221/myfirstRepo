@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3WBIVwbjYsxEvZizUErI6l7hZvc/YW4UxYA7mEmhhljTDXXzr8QIxXIKmgmGb4MqPUcYa2FcZzAFAgXDrN6tPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cristobal.fragata\\source\\repos\\MyFirstRepo1\\MyFirstRepo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristobal.fragata\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
